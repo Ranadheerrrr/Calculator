@@ -1,5 +1,5 @@
-# TXON__02
+Mathematical Calculator
 
-I develop a Mathematical Caluculator we can use this calculator Addition, Subtraction,Multiplication,Division
+I develop a Mathematical Calculator we can use this calculator Addition, Subtraction,Multiplication,Division
 
-Link : https://ranadheer2001.github.io/TXON__02/
+Link : https://Ranadheerrrr.github.io/TXON__02/
